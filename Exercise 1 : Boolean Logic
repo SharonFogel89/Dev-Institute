@@ -1,0 +1,25 @@
+first = "Hello World"
+# This is a comment.
+print("I AM A COMPUTER!")
+if 1 < 2 < 4:
+    print("Math is fun.")
+nope = None
+True and False
+len("What's my length?")
+"i am shouting".upper()
+int("1000")
+str(4) + "real"
+"coolcoolcool"
+ZeroDivisionError
+type([]) # list
+name = input("What's your name?")
+num = float(input("Pick a number"))
+if num < 0:
+    print("The number is less than 0!")
+elif num > 0: 
+    print("The number is greater than 0!")
+else:
+    print("You picked 0!")
+"apple".find("l")
+"y" in "xylophone"
+my_string.islower()
